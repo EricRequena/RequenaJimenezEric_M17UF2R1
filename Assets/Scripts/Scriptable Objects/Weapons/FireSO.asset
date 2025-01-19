@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d3b7d90826539049b8eeff094de6079, type: 3}
+  m_Name: FireSO
+  m_EditorClassIdentifier: 
+  damage: 0
+  prefabWeapon: {fileID: 5280662331135788619, guid: 43ae7c14fb4e0dc4bbc7604408c9b2ad, type: 3}
+  gameWeapon: {fileID: 0}
+  costWeapon: 0
