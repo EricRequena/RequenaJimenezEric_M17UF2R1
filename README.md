@@ -35,7 +35,7 @@ Musica y effectos de sonido:
 
 Aplición utilizadas:
 
-- Unity
+- Unity (Visual Studio Community 2022) Leguaje C#
 - Pixilart
 - Github
 
